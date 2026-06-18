@@ -1,0 +1,44 @@
+[[cors]]
+allowed_origins = "*"
+allowed_methods = ["GET", "POST"]
+allowed_headers = "*"
+
+[[headers]]
+for = ["**/*.woff2", "**/*.woff", "**/*.svg", "**/*.ttf", "**/*.otf", "**/*.eot", "**/*.js", "**/*.css"]
+compress = "gzip"
+[headers.values]
+Cache-Control = "max-age=31536000, no-transform, public"
+
+[[headers]]
+for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
+[headers.values]
+Cache-Control = "max-age=31536000, no-transform, public"
+
+[[redirects]]
+from = "/projets/2027-immortels/index.html"
+to = "/spectacles/2027-immortels/"
+
+[[redirects]]
+from = "/projets/2028-le-roman-de-bellac/index.html"
+to = "/spectacles/2028-le-roman-de-bellac/"
+
+[[redirects]]
+from = "/projets/2021-fortune-recits-de-littoral-2/index.html"
+to = "/spectacles/2021-fortune-recits-de-littoral-2/"
+
+[[redirects]]
+from = "/projets/thematiques/deuil-souvenir/index.html"
+to = "/spectacles/thematiques/deuil-souvenir/"
+
+[[redirects]]
+from = "/projets/index.html"
+to = "/spectacles/"
+
+[[redirects]]
+from = "/projets/thematiques/cultures/index.html"
+to = "/spectacles/thematiques/cultures/"
+
+[[redirects]]
+from = "/projets/thematiques/mythologies/index.html"
+to = "/spectacles/thematiques/mythologies/"
+

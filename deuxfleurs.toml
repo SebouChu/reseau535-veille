@@ -15,12 +15,192 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
+from = "/projets/thematiques/histoire-reelle/index.html"
+to = "/spectacles/thematiques/histoire-reelle/"
+
+[[redirects]]
+from = "/projets/disciplines/espace-public/index.html"
+to = "/spectacles/disciplines/espace-public/"
+
+[[redirects]]
+from = "/projets/2028-shift/index.html"
+to = "/spectacles/2028-shift/"
+
+[[redirects]]
 from = "/projets/2027-immortels/index.html"
 to = "/spectacles/2027-immortels/"
 
 [[redirects]]
+from = "/projets/disciplines/concert-anime-illustre/index.html"
+to = "/spectacles/disciplines/concert-anime-illustre/"
+
+[[redirects]]
+from = "/projets/thematiques/genre/index.html"
+to = "/spectacles/thematiques/genre/"
+
+[[redirects]]
+from = "/projets/thematiques/urbanisme/index.html"
+to = "/spectacles/thematiques/urbanisme/"
+
+[[redirects]]
+from = "/projets/thematiques/devoirs/index.html"
+to = "/spectacles/thematiques/devoirs/"
+
+[[redirects]]
+from = "/projets/disciplines/theatre-contemporain/index.html"
+to = "/spectacles/disciplines/theatre-contemporain/"
+
+[[redirects]]
+from = "/projets/thematiques/droits/index.html"
+to = "/spectacles/thematiques/droits/"
+
+[[redirects]]
+from = "/projets/thematiques/corps/index.html"
+to = "/spectacles/thematiques/corps/"
+
+[[redirects]]
 from = "/projets/2028-le-roman-de-bellac/index.html"
 to = "/spectacles/2028-le-roman-de-bellac/"
+
+[[redirects]]
+from = "/projets/2027-western/index.html"
+to = "/spectacles/2027-western/"
+
+[[redirects]]
+from = "/projets/thematiques/geographie/index.html"
+to = "/spectacles/thematiques/geographie/"
+
+[[redirects]]
+from = "/projets/disciplines/pluridisciplinaire/index.html"
+to = "/spectacles/disciplines/pluridisciplinaire/"
+
+[[redirects]]
+from = "/projets/thematiques/psychologie/index.html"
+to = "/spectacles/thematiques/psychologie/"
+
+[[redirects]]
+from = "/projets/thematiques/techniques/index.html"
+to = "/spectacles/thematiques/techniques/"
+
+[[redirects]]
+from = "/projets/thematiques/politique/index.html"
+to = "/spectacles/thematiques/politique/"
+
+[[redirects]]
+from = "/projets/disciplines/theatre-d-objets/index.html"
+to = "/spectacles/disciplines/theatre-d-objets/"
+
+[[redirects]]
+from = "/projets/thematiques/metiers/index.html"
+to = "/spectacles/thematiques/metiers/"
+
+[[redirects]]
+from = "/projets/disciplines/clown/index.html"
+to = "/spectacles/disciplines/clown/"
+
+[[redirects]]
+from = "/projets/thematiques/justice/index.html"
+to = "/spectacles/thematiques/justice/"
+
+[[redirects]]
+from = "/projets/thematiques/adaptation/index.html"
+to = "/spectacles/thematiques/adaptation/"
+
+[[redirects]]
+from = "/projets/disciplines/theatre-musical/index.html"
+to = "/spectacles/disciplines/theatre-musical/"
+
+[[redirects]]
+from = "/projets/thematiques/medias-1/index.html"
+to = "/spectacles/thematiques/medias-1/"
+
+[[redirects]]
+from = "/projets/thematiques/handicap/index.html"
+to = "/spectacles/thematiques/handicap/"
+
+[[redirects]]
+from = "/projets/thematiques/travail/index.html"
+to = "/spectacles/thematiques/travail/"
+
+[[redirects]]
+from = "/projets/disciplines/magie/index.html"
+to = "/spectacles/disciplines/magie/"
+
+[[redirects]]
+from = "/projets/disciplines/concert/index.html"
+to = "/spectacles/disciplines/concert/"
+
+[[redirects]]
+from = "/projets/disciplines/autre/index.html"
+to = "/spectacles/disciplines/autre/"
+
+[[redirects]]
+from = "/projets/thematiques/faits-divers/index.html"
+to = "/spectacles/thematiques/faits-divers/"
+
+[[redirects]]
+from = "/projets/thematiques/economie/index.html"
+to = "/spectacles/thematiques/economie/"
+
+[[redirects]]
+from = "/projets/disciplines/operette/index.html"
+to = "/spectacles/disciplines/operette/"
+
+[[redirects]]
+from = "/projets/disciplines/radiophonie/index.html"
+to = "/spectacles/disciplines/radiophonie/"
+
+[[redirects]]
+from = "/projets/thematiques/relation-a-l-autre/index.html"
+to = "/spectacles/thematiques/relation-a-l-autre/"
+
+[[redirects]]
+from = "/projets/disciplines/improvisation/index.html"
+to = "/spectacles/disciplines/improvisation/"
+
+[[redirects]]
+from = "/projets/disciplines/arts-du-cirque/index.html"
+to = "/spectacles/disciplines/arts-du-cirque/"
+
+[[redirects]]
+from = "/projets/thematiques/astronomie/index.html"
+to = "/spectacles/thematiques/astronomie/"
+
+[[redirects]]
+from = "/projets/disciplines/vraie-fausse-conference/index.html"
+to = "/spectacles/disciplines/vraie-fausse-conference/"
+
+[[redirects]]
+from = "/projets/disciplines/opera/index.html"
+to = "/spectacles/disciplines/opera/"
+
+[[redirects]]
+from = "/projets/thematiques/initiatique/index.html"
+to = "/spectacles/thematiques/initiatique/"
+
+[[redirects]]
+from = "/projets/disciplines/geste/index.html"
+to = "/spectacles/disciplines/geste/"
+
+[[redirects]]
+from = "/projets/disciplines/video/index.html"
+to = "/spectacles/disciplines/video/"
+
+[[redirects]]
+from = "/projets/disciplines/performance/index.html"
+to = "/spectacles/disciplines/performance/"
+
+[[redirects]]
+from = "/projets/thematiques/aventure/index.html"
+to = "/spectacles/thematiques/aventure/"
+
+[[redirects]]
+from = "/projets/disciplines/installation/index.html"
+to = "/spectacles/disciplines/installation/"
+
+[[redirects]]
+from = "/projets/thematiques/patrimoine/index.html"
+to = "/spectacles/thematiques/patrimoine/"
 
 [[redirects]]
 from = "/projets/2021-fortune-recits-de-littoral-2/index.html"
@@ -31,14 +211,142 @@ from = "/projets/thematiques/deuil-souvenir/index.html"
 to = "/spectacles/thematiques/deuil-souvenir/"
 
 [[redirects]]
+from = "/projets/thematiques/droits-culturels/index.html"
+to = "/spectacles/thematiques/droits-culturels/"
+
+[[redirects]]
+from = "/projets/thematiques/medias/index.html"
+to = "/spectacles/thematiques/medias/"
+
+[[redirects]]
+from = "/projets/disciplines/chant/index.html"
+to = "/spectacles/disciplines/chant/"
+
+[[redirects]]
+from = "/projets/thematiques/sport/index.html"
+to = "/spectacles/thematiques/sport/"
+
+[[redirects]]
 from = "/projets/index.html"
 to = "/spectacles/"
+
+[[redirects]]
+from = "/projets/disciplines/projet-sur-le-territoire/index.html"
+to = "/spectacles/disciplines/projet-sur-le-territoire/"
+
+[[redirects]]
+from = "/projets/thematiques/histoire-fiction/index.html"
+to = "/spectacles/thematiques/histoire-fiction/"
+
+[[redirects]]
+from = "/projets/disciplines/humour-stand-up/index.html"
+to = "/spectacles/disciplines/humour-stand-up/"
+
+[[redirects]]
+from = "/projets/thematiques/hommage/index.html"
+to = "/spectacles/thematiques/hommage/"
+
+[[redirects]]
+from = "/projets/thematiques/democratie/index.html"
+to = "/spectacles/thematiques/democratie/"
+
+[[redirects]]
+from = "/projets/thematiques/famille/index.html"
+to = "/spectacles/thematiques/famille/"
 
 [[redirects]]
 from = "/projets/thematiques/cultures/index.html"
 to = "/spectacles/thematiques/cultures/"
 
 [[redirects]]
+from = "/projets/disciplines/pyrotechnie/index.html"
+to = "/spectacles/disciplines/pyrotechnie/"
+
+[[redirects]]
+from = "/projets/disciplines/lecture/index.html"
+to = "/spectacles/disciplines/lecture/"
+
+[[redirects]]
+from = "/projets/thematiques/sociologie/index.html"
+to = "/spectacles/thematiques/sociologie/"
+
+[[redirects]]
+from = "/projets/disciplines/theatre-classique/index.html"
+to = "/spectacles/disciplines/theatre-classique/"
+
+[[redirects]]
 from = "/projets/thematiques/mythologies/index.html"
 to = "/spectacles/thematiques/mythologies/"
+
+[[redirects]]
+from = "/projets/thematiques/eveil/index.html"
+to = "/spectacles/thematiques/eveil/"
+
+[[redirects]]
+from = "/projets/thematiques/numerique/index.html"
+to = "/spectacles/thematiques/numerique/"
+
+[[redirects]]
+from = "/projets/thematiques/environnement/index.html"
+to = "/spectacles/thematiques/environnement/"
+
+[[redirects]]
+from = "/projets/disciplines/culinaire/index.html"
+to = "/spectacles/disciplines/culinaire/"
+
+[[redirects]]
+from = "/projets/thematiques/jeunesse/index.html"
+to = "/spectacles/thematiques/jeunesse/"
+
+[[redirects]]
+from = "/projets/thematiques/courants-musicaux/index.html"
+to = "/spectacles/thematiques/courants-musicaux/"
+
+[[redirects]]
+from = "/projets/disciplines/images-illustrations/index.html"
+to = "/spectacles/disciplines/images-illustrations/"
+
+[[redirects]]
+from = "/projets/disciplines/theatre-d-ombres/index.html"
+to = "/spectacles/disciplines/theatre-d-ombres/"
+
+[[redirects]]
+from = "/projets/thematiques/sciences/index.html"
+to = "/spectacles/thematiques/sciences/"
+
+[[redirects]]
+from = "/projets/thematiques/memoire/index.html"
+to = "/spectacles/thematiques/memoire/"
+
+[[redirects]]
+from = "/projets/disciplines/arts-de-la-danse/index.html"
+to = "/spectacles/disciplines/arts-de-la-danse/"
+
+[[redirects]]
+from = "/projets/thematiques/sexe/index.html"
+to = "/spectacles/thematiques/sexe/"
+
+[[redirects]]
+from = "/projets/thematiques/sante/index.html"
+to = "/spectacles/thematiques/sante/"
+
+[[redirects]]
+from = "/projets/disciplines/marionnettes/index.html"
+to = "/spectacles/disciplines/marionnettes/"
+
+[[redirects]]
+from = "/projets/disciplines/mime/index.html"
+to = "/spectacles/disciplines/mime/"
+
+[[redirects]]
+from = "/projets/thematiques/entresort/index.html"
+to = "/spectacles/thematiques/entresort/"
+
+[[redirects]]
+from = "/projets/disciplines/arts-de-la-parole/index.html"
+to = "/spectacles/disciplines/arts-de-la-parole/"
+
+[[redirects]]
+from = "/projets/thematiques/paroles-de-femmes/index.html"
+to = "/spectacles/thematiques/paroles-de-femmes/"
 

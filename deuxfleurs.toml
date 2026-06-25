@@ -91,6 +91,10 @@ from = "/projets/disciplines/theatre-d-objets/index.html"
 to = "/spectacles/disciplines/theatre-d-objets/"
 
 [[redirects]]
+from = "/projets/disciplines/index.html"
+to = "/spectacles/disciplines/"
+
+[[redirects]]
 from = "/projets/thematiques/metiers/index.html"
 to = "/spectacles/thematiques/metiers/"
 
@@ -285,6 +289,10 @@ to = "/spectacles/thematiques/eveil/"
 [[redirects]]
 from = "/projets/thematiques/numerique/index.html"
 to = "/spectacles/thematiques/numerique/"
+
+[[redirects]]
+from = "/projets/thematiques/index.html"
+to = "/spectacles/thematiques/"
 
 [[redirects]]
 from = "/projets/thematiques/environnement/index.html"

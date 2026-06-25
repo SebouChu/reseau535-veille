@@ -1,15 +1,45 @@
-theme: osuny
+theme:
+  - osuny
+  - osuny-plugin-centered-footer
 _merge: deep
 params:
   keycdn:
     url: https://osunydev-1b4da.kxcdn.com
   summary:
-    position: hero
+    position: content
+  breadcrumb:
+    position: after-hero
   search:
     active: true
   logo:
-    header: ''
-    footer: ''
+    header: '/assets/images/logo.png'
+    footer: '/assets/images/logo.png'
   home:
     head:
       title: site
+  organizations:
+    single:
+      backlinks: true
+  projects:
+    default_image: true
+    index:
+      layout: grid
+      options:
+        categories: false
+        image: true
+        subtitle: true
+        summary: true
+        year: false
+    single:
+      meta:
+        position: hero
+        options:
+          authors: false
+          dates: false
+          year: false
+          published_at: true
+          reading_time: false
+          share: false
+          taxonomies: true
+          updated_at: false
+          with_labels: true

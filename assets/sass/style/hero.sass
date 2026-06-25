@@ -1,0 +1,36 @@
+@include media-breakpoint-up(desktop)
+    .projects__page
+        .hero
+            .content
+                align-items: center !important
+                flex-direction: column
+                text-align: center
+                .hero-text
+                    margin-left: auto
+                    margin-right: auto
+                    margin-bottom: $spacing-4
+                    text-align: center
+                    display: block
+                    p
+                        margin-top: $spacing-4
+                figure
+                    figcaption
+                        &:before
+                            background: none
+            &.hero--with-image
+                margin-bottom: space(40)
+                .content
+                    figure
+                        width: columns(6)
+                        margin-bottom: calc(#{-$spacing-7} + #{$spacing-4})
+                        .credit
+                            background: none                
+            .projects-taxonomies
+                justify-content: center
+        .breadcrumb-container
+            margin-left: auto
+            margin-right: auto
+            .breadcrumb
+                justify-content: center
+                padding-right: 0
+                margin-top: 0 !important

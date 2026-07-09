@@ -12,3 +12,8 @@ allowed_domains:
   - "youtube-nocookie.com"
   - "www.youtube-nocookie.com"
   - "www.cieloubliee.com"
+  - "vimeo.com"
+  - "player.vimeo.com"
+  - "vumbnail.com"
+  - "drive.google.com"
+  - "www.limaginablecompagnie.com"
